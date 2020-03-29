@@ -1,0 +1,11 @@
+# Ignore Memes folder
+Memes
+
+# Ignore all .txt files
+*.txt
+
+# Ignore all .json files
+*.json
+
+# Ignore all .bat files
+*.bat
